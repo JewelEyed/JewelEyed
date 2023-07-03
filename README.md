@@ -10,3 +10,5 @@
 <hr />
 <h3 align="center">My terrible stats if you want to see them for some reason:</h3>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JewelEyed&show_icons=true&theme=radical" />
+<hr />
+<h2 align="center"> ☕ Drink Coffee  not Java ☕ </h3>
