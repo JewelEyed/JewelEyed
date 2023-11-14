@@ -1,14 +1,22 @@
-<h1 align="center"> Hello, I'm JewelEyed </h1>
+<h1> Hello, I'm JewelEyed </h1>
+<h2>Welcome to my amalgamation of weird code.</h2>
 
-<h2 align="center">Welcome to my amalgamation of weird code.</h2>
-<hr />
-<h3 align="center">Cool Stuff I Use</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,electron,vue,svelte,godot,pr,photoshop,linux,blender&perline50&theme=dark&perline=5" />
-</p>
+![](https://komarev.com/ghpvc/?username=jeweleyed)
+![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/852693261608812575)
+![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/852693261608812575)
+![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/852693261608812575)
+[![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/852693261608812575)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+[![Website](https://img.shields.io/badge/My%20Website-jeweleyed.com-pink)](https://jeweleyed.com)
+
 
 <hr />
-<h3 align="center">My terrible stats if you want to see them for some reason:</h3>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JewelEyed&show_icons=true&theme=radical" />
-<hr />
-<h2 align="center"><a href="https://jeweleyed.com">JewelEyed.com</a></h2>
+<h3>Cool Stuff I Use</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,electron,vue,svelte,godot,pr,photoshop,linux,blender&theme=dark&perline=20" />
+
+<h2>Stats:</h2>
+<br>
+
+![Jewel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JewelEyed&show_icons=true&bg_color=32,DB2876,CA8806&text_color=FFFFFF&title_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JewelEyed&bg_color=32,DB2876,CA8806&text_color=FFFFFF&title_color=FFFFFF)
+<br>
