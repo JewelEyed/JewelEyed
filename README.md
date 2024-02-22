@@ -2,10 +2,11 @@
 <h2>Welcome to my amalgamation of weird code.</h2>
 
 ![](https://komarev.com/ghpvc/?username=jeweleyed)
-![status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/852693261608812575)
-![playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/852693261608812575)
-![vscode](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/852693261608812575)
-![spotify](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/852693261608812575)
+![status](https://api.statusbadges.me/badge/status/852693261608812575?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/852693261608812575)
+![vscode](https://api.statusbadges.me/badge/vscode/852693261608812575)
+![intellij](https://api.statusbadges.me/badge/intellij/852693261608812575)
+[![spotify](https://api.statusbadges.me/badge/spotify/852693261608812575)](https://api.statusbadges.me/openspotify/852693261608812575)
 [![Website](https://img.shields.io/badge/My%20Website-jeweleyed.com-pink)](https://jeweleyed.com)
 
 
